@@ -1,0 +1,10 @@
+.hidden {
+  display: none;
+  background-color: lightgreen;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.card {
+  border: 0px;
+}
